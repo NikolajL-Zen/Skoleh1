@@ -1,0 +1,15 @@
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.AssemblyInfoInputs.cache
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.AssemblyInfo.cs
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.csproj.CoreCompileInputs.cache
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.sourcelink.json
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/bin/Debug/net8.0/YahtzeeGame
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/bin/Debug/net8.0/YahtzeeGame.deps.json
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/bin/Debug/net8.0/YahtzeeGame.runtimeconfig.json
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/bin/Debug/net8.0/YahtzeeGame.dll
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/bin/Debug/net8.0/YahtzeeGame.pdb
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.dll
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/refint/YahtzeeGame.dll
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.pdb
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/YahtzeeGame.genruntimeconfig.cache
+/Users/nikolajlanton/Documents/H1/YahtzeeGame/obj/Debug/net8.0/ref/YahtzeeGame.dll

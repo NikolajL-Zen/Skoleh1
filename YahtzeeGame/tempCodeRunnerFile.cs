@@ -1,0 +1,1 @@
+Console.WriteLine($"Die {Array.IndexOf(player.Dice, die) + 1} rolled to {die.Value}");
